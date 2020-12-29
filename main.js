@@ -70,11 +70,11 @@ function my_keydown(e){
         console.log("right");
     }
     if(keyPressed == '87'){
-        new_image('wall.jpg');
+        new_image('black-widow.jpg');
         console.log("w");
     }
     if(keyPressed == '71'){
-        new_image('ground.png');
+        new_image('.png');
         console.log("g");
     }
     if(keyPressed == '76'){
